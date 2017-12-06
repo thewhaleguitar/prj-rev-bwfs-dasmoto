@@ -23,7 +23,7 @@ h2 {
 #paint {
   background-color: skyblue;
 }
-span.price {
+price {
   font-weight: bold;
   color: blue;
 }
